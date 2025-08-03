@@ -1,6 +1,6 @@
 # IoT-Based Human Activity Recognition using ESP32 and Neural Network
 
-This project implements a human activity recognition (HAR) system using an ESP32 microcontroller and a pre-trained neural network. The system captures sensor data, uses the model to predict the corresponding human activity, and sends the result over a UDP connection. This project is designed to be deployed on an ESP32 board and managed using PlatformIO.
+This project implements a human activity recognition (HAR) system using an ESP32 microcontroller and a train a basic deep learning model (neural network). The system captures sensor data, uses the model to predict the corresponding human activity, and sends the result over a UDP connection. This project is designed to be deployed on an ESP32 board and managed using PlatformIO.
 
 ## Project Overview
 
